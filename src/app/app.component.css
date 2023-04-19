@@ -1,0 +1,15 @@
+.col-md-2 {
+    padding-right: 0px ;
+    padding-left: 0px;
+}
+
+.col-md-10 {
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: #DBE2EF;
+}
+
+.col-md-12 {
+    padding-right: 0px ;
+    padding-left: 0px;
+}
